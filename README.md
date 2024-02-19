@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm TowarzyszFatCat</h1>
-<h3 align="center">I'm still learning :D</h3>
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=towarzyszfatcat&show_icons=true&locale=en&theme=ambient_gradient"/>
