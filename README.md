@@ -5,6 +5,10 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=towarzyszfatcat&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="towarzyszfatcat" /> </p>
 </div>
 
+<h3 align="center">
+<a href='https://ko-fi.com/S8P827HP6U' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi6.png?v=6' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+</h3>
+
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://www.youtube.com/c/towarzyszfatcat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="towarzyszfatcat" height="30" width="40" /></a>
@@ -19,7 +23,3 @@
 ---
 
 <br>
-
-<h3 align="center">
-<a href='https://ko-fi.com/S8P827HP6U' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi6.png?v=6' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
-</h3>
