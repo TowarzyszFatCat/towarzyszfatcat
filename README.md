@@ -20,5 +20,6 @@
 
 <br>
 
-
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/S8P827HP6U)
+<h3 align="center">
+<a href='https://ko-fi.com/S8P827HP6U' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi6.png?v=6' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+</h3>
